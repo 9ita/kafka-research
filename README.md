@@ -1,3 +1,3 @@
 ```sh
-docker-compose up -d
+compose -f docker_compose.yml -p kafka up -d
 ```
